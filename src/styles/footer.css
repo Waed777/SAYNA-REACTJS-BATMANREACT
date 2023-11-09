@@ -1,0 +1,15 @@
+footer {
+  bottom: 0 !important;
+  color: white;
+}
+footer .text-footer {
+  text-align: center;
+  font-size: 14px;
+}
+footer .social-footer {
+  text-align: center;
+  margin-top: 40px;
+}
+footer .social-footer .social-item {
+  padding: 15px;
+}/*# sourceMappingURL=Footer.css.map */

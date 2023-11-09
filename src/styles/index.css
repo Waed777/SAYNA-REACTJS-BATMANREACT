@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'rajdhani';
+  src: url(../assets/police/Rajdhani-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'space-grotesk';
+  src: url(../assets/police/SpaceGrotesk-VariableFont_wght.ttf);
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "rajdhani" !important;
+  color: white !important;
+  background-color: black !important;
+}
+
+button{
+  padding: 10px;
+  color: white;
+  border: none;
+  background: rgb(198,198,198);
+background: linear-gradient(138deg, rgba(198,198,198,1) 0%, rgba(121,9,17,1) 73%);
+}

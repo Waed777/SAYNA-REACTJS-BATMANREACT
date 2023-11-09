@@ -1,0 +1,25 @@
+.nav-link{
+  color: white;
+  font-size: 22px;
+}
+
+.nav-link:hover{
+  color: white;
+
+}
+
+.active{
+  font-weight: bolder;
+  text-decoration: underline;
+  color: red !important;
+}
+
+/* nav{
+  height: 132px; 
+  background-color: black !important;
+  } */
+
+
+.navbar-toggler{
+  background-color: white !important ;
+}
